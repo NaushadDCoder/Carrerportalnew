@@ -1,0 +1,120 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 15, 2014, 12:50:29 PM
+    Author     : Neha
+*/
+
+#header
+{
+    height:20px;
+    background-color: #6E6E6E;
+    border-top: 1px solid #6E6E6E;
+    border-bottom: 1px solid ;
+    padding: 10px;
+    margin: 0px;
+    font-size: 0.9em;
+    text-align: right;
+	
+}
+#header ul
+{
+  
+    list-style-type:none;
+}
+
+#header ul li
+{
+    display: inline;
+}
+
+#header ul li a
+{
+    padding-right: 10px;
+    color: #F5F5F5;
+}
+
+#header
+{
+	border-top: 0px;
+        padding:0px;
+        margin:0px;
+}
+
+#logo
+{
+    height:50px;
+    padding-right:10px;
+   
+}
+.navbar-default .navbar-brand
+{
+    padding: 0px;
+    font-size: 25px;
+    color: #08639D;
+}
+
+#page{
+    border: 1px solid #d8d9d0;
+    margin-top: 0px;
+    background: #F8F8F8;
+    
+   
+}
+
+body{
+    
+    background-image:url("/TestingCareerPortal/images/background.jpg");
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+.carousel
+{
+    margin-bottom: 5px;
+}
+#footer
+{
+    height:40px;
+    background-color: #6E6E6E;
+    border-top: 1px solid #0F161A;
+    border-bottom: 1px solid ;
+    padding: 10px;
+  margin: 0px;
+    font-size: 0.9em;
+    text-align: left;
+    width:100%;
+	
+}
+#footer ul
+{
+  
+    list-style-type:none;
+}
+
+#footer ul li
+{
+    display: inline;
+}
+
+#footer ul li a
+{
+    padding-right: 10px;
+    color: #F5F5F5;
+}
+
+#footer p
+{
+    text-align:center;
+    color: white;
+}
+
+ul
+{
+    margin: 0px;
+}
